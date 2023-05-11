@@ -6,3 +6,5 @@ This is the readme file
 ## Status
 
 ## Contribution
+This is a contribution paragraph
+This is a new stage
